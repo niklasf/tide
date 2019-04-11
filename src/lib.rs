@@ -30,6 +30,7 @@ pub mod middleware;
 pub mod response;
 mod route;
 mod router;
+pub mod query;
 
 #[doc(inline)]
 pub use crate::{
